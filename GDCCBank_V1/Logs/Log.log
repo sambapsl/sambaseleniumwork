@@ -1,0 +1,144 @@
+INFO	2022-07-23 10:52:28,064	0	gdccbank	[main]	URL Opened
+INFO	2022-07-23 10:52:28,185	121	gdccbank	[main]	Entered UserName
+INFO	2022-07-23 10:52:28,206	142	gdccbank	[main]	Entered Password
+INFO	2022-07-23 10:52:33,958	5894	gdccbank	[main]	Clciked on Submit
+INFO	2022-07-23 10:52:33,970	5906	gdccbank	[main]	Logged in Successful
+INFO	2022-07-23 10:54:52,022	0	gdccbank	[main]	URL Opened
+INFO	2022-07-23 10:54:52,152	130	gdccbank	[main]	Entered UserName
+INFO	2022-07-23 10:54:52,202	180	gdccbank	[main]	Entered Password
+INFO	2022-07-23 10:55:03,691	11669	gdccbank	[main]	Clciked on Submit
+INFO	2022-07-23 10:55:03,758	11736	gdccbank	[main]	Logged in Successful
+INFO	2022-07-23 19:25:56,202	0	GDCCBank_V1	[main]	URL Opened
+INFO	2022-07-23 19:25:56,303	101	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-07-23 19:25:56,324	122	GDCCBank_V1	[main]	Entered Password
+INFO	2022-07-23 20:05:01,340	0	GDCCBank_V1	[main]	URL Opened
+INFO	2022-07-23 20:05:01,426	86	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-07-23 20:05:01,481	141	GDCCBank_V1	[main]	Entered Password
+INFO	2022-07-23 20:05:06,637	5297	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-07-23 20:05:06,690	5350	GDCCBank_V1	[main]	Logged in Successful
+INFO	2022-07-23 20:11:42,591	0	GDCCBank_V1	[main]	URL Opened
+INFO	2022-07-23 20:11:42,758	167	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-07-23 20:11:42,792	201	GDCCBank_V1	[main]	Entered Password
+INFO	2022-07-23 20:11:53,295	10704	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-07-23 20:11:53,309	10718	GDCCBank_V1	[main]	Logged in Successful
+INFO	2022-07-23 20:28:15,052	0	GDCCBank_V1	[main]	URL Opened
+INFO	2022-07-23 20:28:15,158	106	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-07-23 20:28:15,181	129	GDCCBank_V1	[main]	Entered Password
+INFO	2022-07-23 20:28:19,289	4237	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-07-23 20:28:19,299	4247	GDCCBank_V1	[main]	Logged in Successful
+INFO	2022-07-23 20:49:09,884	0	GDCCBank_V1	[main]	URL Opened
+INFO	2022-07-23 20:49:10,022	138	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-07-23 20:49:10,049	165	GDCCBank_V1	[main]	Entered Password
+INFO	2022-07-23 20:49:15,526	5642	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-07-23 20:49:15,537	5653	GDCCBank_V1	[main]	Logged in Successful
+INFO	2022-07-28 15:23:14,958	0	GDCCBank_V1	[main]	URL Opened
+INFO	2022-07-28 15:23:15,134	176	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-07-28 15:23:15,167	209	GDCCBank_V1	[main]	Entered Password
+INFO	2022-07-28 15:23:20,676	5718	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-07-28 15:23:20,699	5741	GDCCBank_V1	[main]	Logged in Successful
+INFO	2022-07-29 15:57:27,858	0	GDCCBank_V1	[main]	URL Opened
+INFO	2022-07-29 15:57:28,132	274	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-07-29 15:57:28,207	349	GDCCBank_V1	[main]	Entered Password
+INFO	2022-07-29 15:57:41,036	13178	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-07-29 15:57:41,075	13217	GDCCBank_V1	[main]	Logged in Successful
+INFO	2022-07-29 15:58:48,845	80987	GDCCBank_V1	[main]	URL Opened
+INFO	2022-07-29 15:58:48,964	81106	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-07-29 15:58:48,994	81136	GDCCBank_V1	[main]	Entered Password
+INFO	2022-07-29 15:59:03,391	95533	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-07-29 15:59:03,404	95546	GDCCBank_V1	[main]	Logged in Successful
+INFO	2022-07-29 16:28:06,578	0	GDCCBank_V1	[main]	URL Opened
+INFO	2022-07-29 16:28:06,724	146	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-07-29 16:28:06,748	170	GDCCBank_V1	[main]	Entered Password
+INFO	2022-07-29 16:28:12,014	5436	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-07-29 16:28:12,030	5452	GDCCBank_V1	[main]	Logged in Successful
+INFO	2022-07-29 16:29:18,411	71833	GDCCBank_V1	[main]	URL Opened
+INFO	2022-07-29 16:29:18,463	71885	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-07-29 16:29:18,479	71901	GDCCBank_V1	[main]	Entered Password
+INFO	2022-07-29 16:29:26,460	79882	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-07-29 16:29:26,472	79894	GDCCBank_V1	[main]	Logged in Successful
+INFO	2022-07-29 22:40:35,504	0	GDCCBank_V1	[main]	URL Opened
+INFO	2022-07-29 22:40:35,602	98	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-07-29 22:40:35,625	121	GDCCBank_V1	[main]	Entered Password
+INFO	2022-07-29 22:40:41,742	6238	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-07-29 22:50:44,628	0	GDCCBank_V1	[main]	URL Opened
+INFO	2022-07-29 22:50:44,719	91	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-07-29 22:50:44,743	115	GDCCBank_V1	[main]	Entered Password
+INFO	2022-07-29 22:50:49,603	4975	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-07-29 22:50:49,695	5067	GDCCBank_V1	[main]	Logged in Successful
+INFO	2022-07-29 22:51:56,241	71613	GDCCBank_V1	[main]	URL Opened
+INFO	2022-07-29 22:51:56,289	71661	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-07-29 22:51:56,306	71678	GDCCBank_V1	[main]	Entered Password
+INFO	2022-07-29 22:52:08,122	83494	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-07-29 22:52:08,134	83506	GDCCBank_V1	[main]	Logged in Successful
+INFO	2022-07-30 00:37:25,830	0	GDCCBank_V1	[main]	URL Opened
+INFO	2022-07-30 00:37:25,922	92	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-07-30 00:37:25,969	139	GDCCBank_V1	[main]	Entered Password
+INFO	2022-07-30 00:37:29,901	4071	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-07-30 00:38:36,851	71021	GDCCBank_V1	[main]	URL Opened
+INFO	2022-07-30 00:38:36,919	71089	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-07-30 00:38:36,938	71108	GDCCBank_V1	[main]	Entered Password
+INFO	2022-07-30 00:38:41,820	75990	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-07-30 00:38:41,830	76000	GDCCBank_V1	[main]	Logged in Successful
+INFO	2022-07-30 09:11:59,195	0	GDCCBank_V1	[main]	URL Opened
+INFO	2022-07-30 09:11:59,341	146	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-07-30 09:11:59,360	165	GDCCBank_V1	[main]	Entered Password
+INFO	2022-07-30 09:12:53,625	54430	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-07-30 09:14:02,846	123651	GDCCBank_V1	[main]	URL Opened
+INFO	2022-07-30 09:14:02,957	123762	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-07-30 09:14:02,984	123789	GDCCBank_V1	[main]	Entered Password
+INFO	2022-07-30 09:14:09,502	130307	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-07-30 09:14:09,549	130354	GDCCBank_V1	[main]	Logged in Successful
+INFO	2022-07-30 09:18:13,552	0	GDCCBank_V1	[main]	URL Opened
+INFO	2022-07-30 09:18:13,638	86	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-07-30 09:18:13,664	112	GDCCBank_V1	[main]	Entered Password
+INFO	2022-07-30 09:18:19,770	6218	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-07-30 09:18:32,629	19077	GDCCBank_V1	[main]	URL Opened
+INFO	2022-07-30 09:18:32,708	19156	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-07-30 09:18:32,729	19177	GDCCBank_V1	[main]	Entered Password
+INFO	2022-07-30 09:19:28,102	74550	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-07-30 09:19:28,134	74582	GDCCBank_V1	[main]	Logged in Successful
+INFO	2022-07-30 09:39:26,595	0	GDCCBank_V1	[main]	URL Opened
+INFO	2022-07-30 09:39:26,695	100	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-07-30 09:39:26,714	119	GDCCBank_V1	[main]	Entered Password
+INFO	2022-07-30 09:39:30,734	4139	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-07-30 09:40:39,994	73399	GDCCBank_V1	[main]	URL Opened
+INFO	2022-07-30 09:40:40,057	73462	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-07-30 09:40:40,083	73488	GDCCBank_V1	[main]	Entered Password
+INFO	2022-07-30 09:40:46,263	79668	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-07-30 09:40:46,274	79679	GDCCBank_V1	[main]	Logged in Successful
+INFO	2022-08-01 09:49:19,266	0	GDCCBank_V1	[main]	URL Opened
+INFO	2022-08-01 09:49:19,411	145	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-08-01 09:49:19,509	243	GDCCBank_V1	[main]	Entered Password
+INFO	2022-08-01 09:49:25,054	5788	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-08-01 09:50:37,344	78078	GDCCBank_V1	[main]	URL Opened
+INFO	2022-08-01 09:50:37,424	78158	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-08-01 09:50:37,455	78189	GDCCBank_V1	[main]	Entered Password
+INFO	2022-08-01 09:50:45,054	85788	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-08-01 09:50:45,110	85844	GDCCBank_V1	[main]	Logged in Successful
+INFO	2022-08-01 10:49:40,740	0	GDCCBank_V1	[main]	URL Opened
+INFO	2022-08-01 10:49:40,819	79	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-08-01 10:49:40,857	117	GDCCBank_V1	[main]	Entered Password
+INFO	2022-08-01 10:49:53,745	13005	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-08-01 10:51:04,050	83310	GDCCBank_V1	[main]	URL Opened
+INFO	2022-08-01 10:51:04,127	83387	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-08-01 10:51:04,154	83414	GDCCBank_V1	[main]	Entered Password
+INFO	2022-08-01 10:51:10,704	89964	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-08-01 10:51:10,716	89976	GDCCBank_V1	[main]	Logged in Successful
+INFO	2022-08-01 20:58:32,975	1	GDCCBank_V1	[main]	URL Opened
+INFO	2022-08-01 20:58:33,167	193	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-08-01 20:58:33,263	289	GDCCBank_V1	[main]	Entered Password
+INFO	2022-08-01 20:58:38,994	6020	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-08-01 20:59:50,582	77608	GDCCBank_V1	[main]	URL Opened
+INFO	2022-08-01 20:59:50,681	77707	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-08-01 20:59:50,713	77739	GDCCBank_V1	[main]	Entered Password
+INFO	2022-08-01 20:59:55,172	82198	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-08-01 20:59:55,185	82211	GDCCBank_V1	[main]	Logged in Successful
+INFO	2022-08-01 22:45:56,728	0	GDCCBank_V1	[main]	URL Opened
+INFO	2022-08-01 22:45:56,841	113	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-08-01 22:45:56,891	163	GDCCBank_V1	[main]	Entered Password
+INFO	2022-08-01 22:46:01,549	4821	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-08-01 22:46:14,081	17353	GDCCBank_V1	[main]	URL Opened
+INFO	2022-08-01 22:46:14,128	17400	GDCCBank_V1	[main]	Entered UserName
+INFO	2022-08-01 22:46:14,148	17420	GDCCBank_V1	[main]	Entered Password
+INFO	2022-08-01 22:46:16,963	20235	GDCCBank_V1	[main]	Clciked on Submit
+INFO	2022-08-01 22:46:16,972	20244	GDCCBank_V1	[main]	Logged in Successful
